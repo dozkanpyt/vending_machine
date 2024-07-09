@@ -1,0 +1,5 @@
+Coke,10,1.25
+Pepsi,8,1.00
+Sprite,15,1.50
+Fanta,5,1.20
+Mountain Dew,7,1.30
